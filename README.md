@@ -27,5 +27,7 @@ dichos índices? Argumente. Realice los supuestos que considere
 necesarios.
 * Si unimos los índices y las vistas vamos a lograr mucha más agilidad a la hora de realizar las consultas. Esto porque creamos índices en tablas como mascota y propietario, filtrando por ID de cada registro, y las consultas realizadas en las vistas previamente descritas tienen su base en estas columnas de cada tabla.
 
-![image](https://user-images.githubusercontent.com/53981601/132617974-dfb01da5-dbc1-46a3-a4b4-42d81e9ce32f.png)
+![image](https://user-images.githubusercontent.com/53981601/132618057-c320281b-8b98-4b2a-b956-7e2bacf79868.png)
+![image](https://user-images.githubusercontent.com/53981601/132618073-6f660108-240c-455e-ad95-24ce5e473db3.png)
+
 
