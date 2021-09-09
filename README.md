@@ -1,5 +1,18 @@
 # Taller1_BD
 
+De cuardo al taller propuesto, se nos indica crear un modelo  en el cual hay que tener encuentas las tablas como Veterinaria,Mascotas, propietari y funcionario alcaldía, en el cual se crea un modelo relacional teniendo en cuentas cada uno de los requerimientos propuestos.
+
+Integrantes:
+
+1)Juan Pablo Muñoz Buitrago
+2) Moises Daniel  Salcedo Ramos
+3) Jieson Jair Jossa
+4) Raul T  Gonzalez Arrieta
+
+Se trabajo con la herramienta PostgreSQL   Versión 13.
+
+
+
 
 a. ¿Las vistas que decide crear a qué requerimiento no funcional obedecen?
 Seguridad o facilidad de consulta. ¿Deberían ser vistas materializadas?
