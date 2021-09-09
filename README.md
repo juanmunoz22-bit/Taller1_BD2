@@ -6,8 +6,8 @@ Integrantes:
 
 1)Juan Pablo Muñoz Buitrago
 2) Moises Daniel  Salcedo Ramos
-3) Jieson Jair Jossa
-4) Raul T  Gonzalez Arrieta
+3) Jeisson Jair Jossa 
+4) Raul Gonzalez Arrieta
 
 Se trabajo con la herramienta PostgreSQL   Versión 13.
 
